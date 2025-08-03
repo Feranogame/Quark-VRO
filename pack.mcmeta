@@ -1,0 +1,15 @@
+{
+	"pack": {
+		"pack_format": 15,
+		"supported_formats": [15,2147483647],
+		"description": "Now in Vanilla"
+	},
+	"overlays": {
+		"entries": [
+			{
+				"formats": [20,2147483647],
+				"directory": "format_20"
+			}
+		]
+	}
+}
